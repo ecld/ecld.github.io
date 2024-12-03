@@ -21,7 +21,7 @@ author: Nicolás Alessandroni, Ana Moreno-Núñez, and Eva Murillo
 
 navbar-links:
   Speakers: "speakers"
-  Venue: "venue"
+  Venue: "https://fuam.es/la-cristalera/"
   Program: "program"
 #  Resources:
 #    - Code of Conduct: "COC"
