@@ -5,12 +5,11 @@ title: Organizers
 
 # Chairs
 
-- Ana Moreno-Núñez (UAM, Spain)
-- Eva Murillo (UAM, Spain)
+- Ana Moreno-Núñez (UAM)
+- Eva Murillo (UAM)
 
 # Members
 
-- Nicolás Alessandroni (Concordia University, Canada)
 - Marta Casla (UAM)
 - Miguel Lázaro (UCM)
 - Irene Rujas (UCM)
