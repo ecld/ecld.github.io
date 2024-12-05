@@ -20,14 +20,11 @@ author: Ana Moreno-Núñez & Eva Murillo
 ###############################################
 
 navbar-links:
-  Speakers: "speakers"
-  Venue: "https://fuam.es/la-cristalera/"
+  Organizers: "organizers"
+  Keynote Speakers: "speakers"
   Program: "program"
-#  Resources:
-#    - Code of Conduct: "COC"
-#    - Collab. Agreement: "https://docs.google.com/document/d/1TS_va-GiUmDONuHZe5gghPNX5gdSMayrCR1TV2OZntg/edit?usp=sharing"
-#    - Publications: "publications"
-  Contact us: "mailto:ana.moreno@uam.es"
+  Venue: "https://fuam.es/la-cristalera/" 
+  Contact us: "mailto:ana.moreno@uam.es" 
 
 ################
 # --- Logo --- #
